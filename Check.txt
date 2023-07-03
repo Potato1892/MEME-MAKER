@@ -1,0 +1,3 @@
+<바닐라 JS로 그림 앱 만들기>
+Live server 설치 후 VSCode 하단에 'Go Live' 클릭하면 'index.html'에 관련된 소스 수정될 때마다 자동으로 새로고침을 해준다
+#1 ~ 
